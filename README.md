@@ -1,9 +1,18 @@
-# Çeviri
+# Highlight Translator (Çeviri)
 
 A tiny macOS menu-bar app that explains and translates highlighted text using the
 **Gemini API**. Built for reading English academic papers: highlight a term or
 sentence you don't understand in any app — Chrome, Safari, Preview/Skim PDFs,
 anything — press a shortcut, and get a clear explanation in your language.
+
+## Who it is for
+
+- Students and researchers reading English academic papers, textbooks or articles.
+- Anyone who meets an unfamiliar term while reading in another app and wants an explanation without switching windows.
+
+## Why I built it
+
+I read English academic papers and kept switching to a browser to look up terms. I wanted a shortcut that works in any app, including PDF readers, and explains the highlighted text in place.
 
 ## How it works
 
